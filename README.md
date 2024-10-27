@@ -1,4 +1,4 @@
-<h4>Exercícios para treinamento de ETL avnaçado.</h4>
+<h4>Exercícios para treinamento de ETL avançado</h4>
 
 <p>Exercícios realizados ao decorrer do curso no link abaixo.</p>
 
