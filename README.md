@@ -1,6 +1,6 @@
 # 🛠️ ETL Avançado com Python
 
-Exercícios práticos de ETL realizados ao longo do curso “[ETL com Python](https://www.youtube.com/watch?v=BS8mv11SJeo&list=PL_b3PX9XGVYMW1w-68YmDv2kAl5Gfiuvx)” do canal Hashtag Programação.
+Exercícios práticos de ETL realizados ao longo do curso “[ETL com Python](https://www.youtube.com/watch?v=BS8mv11SJeo&list=PL_b3PX9XGVYMW1w-68YmDv2kAl5Gfiuvx)” do canal Edimilson Alves.
 
 ## 📌 Descrição
 
